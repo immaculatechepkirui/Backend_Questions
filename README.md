@@ -1,2 +1,2 @@
 # Backend_Questions
-This repositorycontains all the questions given in the backeng
+This repository contains all the questions given in the backend course at AkiraChix
